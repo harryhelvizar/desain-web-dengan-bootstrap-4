@@ -1,0 +1,21 @@
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand {
+    font-size: 180%;
+    color: rgba(206, 97, 192, 0.9);
+}
+
+.judul {
+    padding-top: 185px;
+    text-align: justify;
+}
+
+.content{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+
+.kontak-email{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
